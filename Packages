@@ -1,0 +1,11 @@
+Package: miscript-grafico
+Version: 3.2
+Architecture: all
+Maintainer: oscar3y <oscar@example.com>
+Filename: /mnt/data/integracion/miscript-grafico_3.2_all.deb
+Size: 1156
+MD5sum: e69d3336a18e5e726040ab7c3558dc04
+SHA1: 23a713c4fee90f1843e702200c651614be360acc
+SHA256: c466b52be7fa2ca3a285714b09ce17ecfdcb593c7e3cc36359fec60bc5fa1a62
+Description: Script GPIO con gestor, logs rotativos, configurador completo e historial.
+
