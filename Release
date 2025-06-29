@@ -1,0 +1,11 @@
+Origin: integracion
+Label: integracion
+Suite: stable
+Version: 3.3
+Codename: integracion
+Date: Sun, 29 Jun 2025 20:15:35 UTC
+Architectures: all
+Components: main
+SHA256:
+ b07e3faf039b841b4cc2560015a8c9574d10dad64e9f4020c454ed83ca662c42 419 Packages
+ 2c5b704db825e1cc2a2862e0ae3bfbb9b050768fc64ff02b2bfe4ac36a3d533a 332 Packages.gz
