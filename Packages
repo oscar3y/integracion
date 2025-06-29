@@ -1,0 +1,7 @@
+Package: miscript-grafico
+Version: 3.3
+Architecture: all
+Maintainer: oscar3y
+Description: Sistema GPIO con gestor gráfico y servidor TCP.
+Filename: miscript-grafico_3.3_all.deb
+Size: 1024
